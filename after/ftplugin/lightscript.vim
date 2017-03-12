@@ -1,9 +1,9 @@
 " Vim filetype plugin file
-" Language:     JavaScript
-" Maintainer:   vim-javascript community
-" URL:          https://github.com/pangloss/vim-javascript
+" Language:     LightScript
+" Maintainer:   vim-lightscript community
+" URL:          https://github.com/jsonnull/vim-lightscript
 
-setlocal iskeyword+=$ suffixesadd+=.js
+setlocal iskeyword+=$ suffixesadd+=.lsc
 
 if exists('b:undo_ftplugin')
   let b:undo_ftplugin .= ' | setlocal iskeyword< suffixesadd<'
