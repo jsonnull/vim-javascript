@@ -1,7 +1,7 @@
 " Vim syntax file
-" Language:     JavaScript
-" Maintainer:   vim-javascript community
-" URL:          https://github.com/pangloss/vim-javascript
+" Language:     LightScript
+" Maintainer:   jsonnull ( https://github.com/jsonnull )
+" URL:          https://github.com/pangloss/vim-lightscript
 
 if !exists("main_syntax")
   if version < 600

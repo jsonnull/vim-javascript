@@ -1,6 +1,6 @@
 " Vim filetype plugin file
 " Language:     LightScript
-" Maintainer:   vim-lightscript community
+" Maintainer:   jsonnull ( https://github.com/jsonnull )
 " URL:          https://github.com/jsonnull/vim-lightscript
 
 setlocal iskeyword+=$ suffixesadd+=.lsc

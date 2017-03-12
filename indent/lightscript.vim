@@ -1,7 +1,7 @@
 " Vim indent file
-" Language: Javascript
-" Maintainer: Chris Paul ( https://github.com/bounceme )
-" URL: https://github.com/pangloss/vim-javascript
+" Language: LightScript
+" Maintainer: jsonnull ( https://github.com/jsonnull )
+" URL: https://github.com/jsonnull/vim-lightscript
 " Last Change: March 9, 2017
 
 " Only load this indent file when no other was loaded.
